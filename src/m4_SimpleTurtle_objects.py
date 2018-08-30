@@ -93,6 +93,7 @@ boris.forward(100)
 boris.left(90)
 boris.forward(200)
 
+
 # -----------------------------------------------------------------------------
 # The next few lines show how to:
 #   - Construct a second SimpleTurtle,
